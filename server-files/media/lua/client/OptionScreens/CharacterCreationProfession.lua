@@ -147,7 +147,7 @@ function CharacterCreationProfession:create()
 
 	self.freeTraits = {};
 
-	self.pointToSpend = 0;
+	self.pointToSpend = 200;
 
 	local w = self.width * 0.75;
 	local h = self.height * 0.8;
